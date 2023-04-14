@@ -9,10 +9,12 @@ Note: Most feature names have been given anonymous V1, V2,... V28 designations d
 
 ## Evaluation of the Decision Tree model
 __Ran inference and got probability of fraud in test samples__
+
 ROC-AUCCURACY score : 0.966
 
 ## Evaluate the Support Vector Machine Model
  __Ran inference and get the confidence scores__
+ 
 SVM ROC-AUC score:   0.984
  
 ## Definitions
